@@ -26,7 +26,13 @@
     "ios": {
       "supportsTablet": true
     },
-    "entryPoint": "node_modules/expo/AppEntry.js"
+    "entryPoint": "node_modules/expo/AppEntry.js",
+    "extra": {
+      "eas": {
+        "projectId": "f095def6-fde9-498f-8426-678b2669a87c"
+      }
+    },
+    "owner": "mthebest81"
   },
   "displayName": "CallKeep example",
   "name": "CallKeepDemo"
