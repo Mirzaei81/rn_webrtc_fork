@@ -23,6 +23,9 @@
     "assetBundlePatterns": [
       "**/*"
     ],
+    "android": {
+      "package": "com.webrtc.example"
+    },
     "ios": {
       "supportsTablet": true
     },
