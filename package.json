@@ -1,4 +1,5 @@
 {
+  "eas-build-pre-install": "npm config set legacy-peer-deps true",
   "scripts": {
     "start": "react-native start",
     "android": "react-native run-android",
